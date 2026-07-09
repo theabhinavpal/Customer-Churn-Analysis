@@ -179,9 +179,9 @@ jupyter notebook ../notebooks/
 
 Accuracy **74.5%** · Precision **63.4%** · Recall **46.2%** · F1 **53.5%** (full breakdown + threshold tuning guidance in `reports/Model_Evaluation.md`)
 
-![Confusion Matrix](images/plots/confusion_matrix.png)
-![ROC Curve](images/plots/roc_curve.png)
-![Feature Importance](images/plots/feature_importance.png)
+![Confusion Matrix](Images/plots/confusion_matrix.png)
+![ROC Curve](Images/plots/roc_curve.png)
+![Feature Importance](Images/plots/feature_importance.png)
 
 ---
 
