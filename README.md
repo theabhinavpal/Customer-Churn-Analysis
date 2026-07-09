@@ -222,4 +222,4 @@ MIT License — see `LICENSE`.
 
 ## 🙏 Acknowledgements
 
-Dataset is fully synthetic, generated for this project to avoid licensing/privacy concerns while preserving realistic, explainable churn dynamics.
+The dataset is fully synthetic, generated for this project to avoid licensing/privacy concerns while preserving realistic, explainable churn dynamics.
