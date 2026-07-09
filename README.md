@@ -195,8 +195,8 @@ Accuracy **74.5%** · Precision **63.4%** · Recall **46.2%** · F1 **53.5%** (f
 
 Full list of 31 insights with sourced numbers: `reports/Business_Insights.md`
 
-![Churn by Contract Type](images/eda_charts/churn_by_contract_type.png)
-![Churn by Complaints](images/eda_charts/churn_by_complaints.png)
+![Churn by Contract Type](Images/EdaCharts/churn_by_contract_type.png)
+![Churn by Complaints](Images/EdaCharts/churn_by_complaints.png)
 
 ---
 
