@@ -220,6 +220,3 @@ Full list of 31 insights with sourced numbers: `reports/Business_Insights.md`
 
 MIT License — see `LICENSE`.
 
-## 🙏 Acknowledgements
-
-The dataset is fully synthetic, generated for this project to avoid licensing/privacy concerns while preserving realistic, explainable churn dynamics.
